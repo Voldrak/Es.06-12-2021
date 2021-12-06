@@ -1,0 +1,12 @@
+
+    prodotto: pomodoro,
+    quantità: 4
+
+    prodotto: pera,
+    quantità: 5
+
+    prodotto: mela,
+    quantità: 12
+
+    prodotto: melanzana,
+    quantità: 2
